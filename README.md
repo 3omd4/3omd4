@@ -38,7 +38,7 @@ Courses I've completed as part of my Computer & Systems Engineering degree:
 
 ## 🧠 Technical Skills
 - **Languages**: Python, C++
-- **Tools & Frameworks**: ROS, Git,[Uploading Mohamed Emad.pdf…]()
+- **Tools & Frameworks**: ROS, Git
  Docker
 
 ## 🌐 Let's Connect
