@@ -11,7 +11,7 @@ Courses I've completed as part of my Computer & Systems Engineering degree:
 ### 🔌 Electrical & Electronic Fundamentals
 - Circuits I & II  
 - Electronic Circuits  
-- Electromagnetic Fields I & II  
+- Electrostatic Fields I & II  
 - Measurement and Sensors  
 
 ### 💻 Programming & Software Engineering
